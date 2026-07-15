@@ -108,7 +108,6 @@ Eco-Scan AI contributes to environmental sustainability by:
 
 - Pandya Rishi Kanaiyalal
 - Parmar Kuldeepkumaar Pravinbhai
-- 
 ---
 
 ## Internship Details

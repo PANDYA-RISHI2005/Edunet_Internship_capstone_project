@@ -55,7 +55,6 @@ Eco-Scan-AI/
 ├── app.py                 # Streamlit application
 ├── train_model.py         # Model training script
 ├── utils.py               # Recycling information
-├── requirements.txt       # Required Python libraries
 ├── README.md
 ```
 
